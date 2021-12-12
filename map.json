@@ -54,7 +54,17 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"MeetingRoom"
+                 "value":"lila"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Hier druecken, um am Vortrag teilzunehmen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -72,7 +82,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"ChillZone"
+                 "value":"blau"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -82,7 +92,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Leertaste druecken, um am Gespraechskreis teilzunehmen."
+                 "value":"Hier druecken, um am Gespraech teilzunehmen."
                 }],
          "type":"tilelayer",
          "visible":true,
