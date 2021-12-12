@@ -341,7 +341,7 @@
         {
          "columns":2,
          "firstgid":455,
-         "image":"..\/nihma-office\/src\/assets\/pfeil.png",
+         "image":"src\/assets\/pfeil.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
