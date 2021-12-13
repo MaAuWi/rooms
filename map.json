@@ -110,12 +110,12 @@
                 {
                  "name":"bbbRoom",
                  "type":"string",
-                 "value":"update"
+                 "value":"nih-y5c-sdk-x8l"
                 }, 
                 {
                  "name":"bbbUrl",
                  "type":"string",
-                 "value":"bbb.nihma.de\/b\/nih-y5c-sdk-x8l"
+                 "value":"bbb.nihma.de\/b\/"
                 }],
          "type":"tilelayer",
          "visible":true,
